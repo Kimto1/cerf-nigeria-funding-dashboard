@@ -184,3 +184,7 @@ Select the project’s `myenv` Python kernel and run all cells from beginning to
 ## Author
 
 Kimto Oche Emmanuel
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cerf-nigeria-funding-dashboard.streamlit.app)
+
+**Live dashboard:** [Launch the interactive CERF Nigeria Funding Dashboard](https://cerf-nigeria-funding-dashboard.streamlit.app)
